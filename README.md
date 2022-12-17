@@ -1,6 +1,11 @@
-# caixa-de-login
-primeiro projeto feito por mim(Setember/2022)
-Eu nao adicionei javascript para dar interatividade no projeto pois eu ainda nao cheguei a estudar ele.
-primeiro projeto usando CSS3
-criei ele sem ter um objetivo definitivo,apenas para testar meu conhecimento e melhorar minhas tecnicas
-qualquer opinião,critica,ou ideia sera sempre bem vista!
+# login box
+first project made by me (September/2022)
+I didn't add javascript to give interactivity in the project because I haven't studied it yet.
+first project using CSS3
+I cried him without having a definite objective, just to test my knowledge and improve my techniques.
+Any opinion, criticism, or idea will always be welcome!
+first project made by me (September/2022)
+I didn't add javascript to give interactivity in the project because I haven't studied it yet.
+first project using CSS3
+I cried him without having a definite objective, just to test my knowledge and improve my techniques.
+Any opinion, criticism, or idea will always be welcome!
